@@ -1,0 +1,8 @@
+source/rf_best_model.pkl
+7_wind_turbine_performance.csv
+*.pkl
+*.joblib
+*.log
+.venv/
+__pycache__/
+*.pyc

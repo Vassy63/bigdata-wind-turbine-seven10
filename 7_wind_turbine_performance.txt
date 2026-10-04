@@ -1,0 +1,5 @@
+Tập dữ liệu ghi nhận thông tin vận hành của các tuabin gió đặt tại nhiều khu vực ven biển và vùng cao trong suốt giai đoạn 3 năm. Mỗi dòng dữ liệu tương ứng với một lần đo theo phút, phản ánh các yếu tố tự nhiên như tốc độ gió, hướng gió, mật độ không khí, nhiệt độ môi trường, độ cao đặt tuabin, cùng các thông số kỹ thuật của thiết bị như góc cánh, tốc độ quay trục, hiệu suất máy phát, trạng thái bảo trì, và một số thông tin quản lý như mã tuabin hoặc ghi chú vận hành.
+
+Biến mục tiêu là “power_output”, biểu thị lượng điện năng (kWh) mà tuabin sinh ra trong mỗi chu kỳ đo.
+
+Tập dữ liệu bao gồm 187,923 bản ghi, phản ánh quy mô dữ liệu lớn phù hợp cho các bài toán hồi quy và tối ưu hóa hiệu suất trên nền tảng xử lý Big Data như Apache Spark MLlib.
