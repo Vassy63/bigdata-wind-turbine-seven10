@@ -1,7 +1,7 @@
 """
 Phase 2: Random Forest Regression -- Huan luyen va danh gia
 ===========================================================
-Nguoi phu trach: Nguoi 2 (scikit-learn)
+Nguoi phu trach: Nguyen Quoc An (scikit-learn)
 Muc tieu: Du doan power_output tu du lieu turbine gio.
 
 Cach chay (tu bat ky thu muc nao):
