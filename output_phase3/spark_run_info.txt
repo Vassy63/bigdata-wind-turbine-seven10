@@ -1,0 +1,40 @@
+SPARK CONFIGURATION
+==================
+Spark Version: 4.2.0
+Spark Master: local[*]
+Mode: Local mode: local[*]
+App Name: Phase3_RandomForest_WindTurbine
+Default Parallelism: 16
+Executor/Worker Info: N/A (local mode)
+
+DATASET PARTITIONS
+==================
+Train partitions: 16
+Validation partitions: 16
+Test partitions: 16
+
+TIMING
+======
+Preprocessing fit time: 7.32s
+Final model training time: 141.42s
+Whole pipeline execution time: 500.39s
+
+BEST MODEL CONFIG
+=================
+numTrees: 200
+maxDepth: 12
+seed: 42
+
+FINAL METRICS
+=============
+Train MAE: 11.9556
+Train RMSE: 14.8548
+Train R²: 0.5573
+
+Validation MAE: 12.5531
+Validation RMSE: 15.7719
+Validation R²: 0.4985
+
+Test MAE: 12.6138
+Test RMSE: 15.8436
+Test R²: 0.4954
